@@ -12,4 +12,4 @@ este es mi readme : <h1>¡Hola!  Soy Mfarro1522 <img src="https://raw.githubuse
 
 ### Actividad 😓
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Mfarro1522&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mfarro1522)
+![Streak](https://streak-stats.demolab.com?user=Mfarro1522&show_icons=true)
