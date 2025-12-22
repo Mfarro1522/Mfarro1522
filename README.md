@@ -14,6 +14,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel. app/api? username=Mfarro1522&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mfarro1522&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Mfarro1522" /> </p>
+
