@@ -1,4 +1,4 @@
-este es mi readme : <h1>¡Hola!  Soy Mfarro1522 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h1>¡Hola!  Soy Mfarro1522 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>Estudiante de Ingeniería en Computación 🎓 💻</h2>
 
 ### Sobre Mí
