@@ -8,7 +8,7 @@
 - Abierto a colaboraciones y nuevas oportunidades de aprendizaje.
 
 ### Tecnologías
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mfarro1522&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mfarro1522)
 
 ### Actividad 😓
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Mfarro1522&show_icons=true)
