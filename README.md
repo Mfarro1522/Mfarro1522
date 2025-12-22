@@ -1,16 +1,25 @@
-<h1>¡Hola!  Soy Mfarro1522 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Estudiante de Ingeniería en Computación 🎓 💻</h2>
+<div align="center">
+  <h1>¡Hola! Soy Mfarro1522 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+  <h2>Estudiante de Ingeniería en Computación 🎓 💻</h2>
+</div>
 
 ### Sobre Mí
-- Estudiante de Ingeniería en Computación apasionado por la tecnología. 
-- Subo y documento mi aprendizaje en GitHub. 
+-  Estudiante de Ingeniería en Computación apasionado por la tecnología.
+- Subo y documento mi aprendizaje en GitHub.
 - Me atrae el desarrollo de videojuegos y la ingeniería de IA.
-- Abierto a colaboraciones y nuevas oportunidades de aprendizaje.
+- Abierto a colaboraciones y nuevas oportunidades.
 
-### Tecnologías
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mfarro1522)
+---
 
-### Actividad 😓
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Mfarro1522&show_icons=true)
+### Tecnologías y Herramientas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfarro1522&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</div>
 
+### Actividad 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mfarro1522&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mfarro1522&theme=vision-friendly-dark" alt="Streak" />
+</div>
 
