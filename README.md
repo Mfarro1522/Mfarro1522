@@ -18,8 +18,8 @@
 
 ### Actividad 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mfarro1522&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mfarro1522&show_icons=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mfarro1522&theme=vision-friendly-dark" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mfarro1522" alt="Streak" />
 </div>
 
